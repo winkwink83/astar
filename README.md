@@ -8,7 +8,7 @@ How to use a programme:
   
   Run code
   
-  Stop it when you see "Numbers added"
+  Stop when "Numbers added" is pirinted 
   
   Look at testowy.dwg
   
