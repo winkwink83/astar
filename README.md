@@ -3,6 +3,7 @@
 How to use a programme:
 
   Open testowy.dwg
+	
   Open version4.py in editable mode
   Run code
   Stop it when you see "Numbers added"
